@@ -11,8 +11,8 @@ package ed.proyectonetbeans.segundo;
 public interface Archvo {
 
     //Obviamente queria escribir archivo, pero comenti un pequeño error ortográfico.
-    //Situate encima dl nombre del interfaz y pulsa Control +R, establece para el interfaz archivo
-    //Esto cambiara las ocurrencias del interfaz en todo el proyecto.
+    //Situate encima del nombre del interfaz y pulsa Control +R, establece para el interfaz archivo
+    //Esto cambiara las ocurrencias del interfaz en todo el proyecto, también sirve para variables
 
     public void abrirArchivo ();
 

@@ -22,7 +22,7 @@ public class Ejercicio1 {
 
 
         //Un scanner sirve para recibir una entrada de teclado. Esta marcada en rojo porque necesita cargar una libreria para funcionar
-        //Escribe ALT + SHIFT + I para que netbeans encuentre la libería que falta
+        //Escribe CONTROL + SHIFT + I para que netbeans encuentre la libería que falta
         Scanner s =new Scanner(System.in);
         System.out.println("Escribe tu nombre");
 

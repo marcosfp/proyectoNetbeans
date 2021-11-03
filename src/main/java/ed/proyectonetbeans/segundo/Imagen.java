@@ -17,9 +17,6 @@ import java.awt.*;
 public class Imagen extends JFrame implements Archvo {
 
 
-    //TODO presiona Control + F12 ¿qué ves?
-    //TODO si te parece eintresante prueba a pulsat Alt + 7
-
     JButton b1;
     JLabel l1;
 

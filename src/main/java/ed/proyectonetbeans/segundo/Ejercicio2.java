@@ -7,7 +7,7 @@ package ed.proyectonetbeans.segundo;
 public class Ejercicio2 {
 
     public static void main(String[] args) {
-        //TODO Busca el triángulo de color verde  o pulsa Shift + F10
+        //TODO Busca el triángulo de color verde  o pulsa Shift + F6 + FN (si es un portatil)
         //TODO Presiona SHIFT + ALT + F  ,y selecciona todo el archivo
 
         Archvo archivo = null;
@@ -17,7 +17,7 @@ public class Ejercicio2 {
         int randomInteger = (int) (Math.random() * n) + 1;
 
         double m = randomInteger % 2;
-        //TODO presiona Control + G, escribe 11 y haz doble click a la derecha del numero de la linea
+        //TODO presiona Control + G, escribe 11 y haz click sobre el numero de la linea
         //TODO busca al lado del menu de ejecucion un logo de un insecto y pincha en él
         if (m == 0) {
             archivo = new Imagen();
